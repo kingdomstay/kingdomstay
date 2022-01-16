@@ -32,3 +32,45 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+> Looking for a job ⏳
+## Contact Information
+
+**UI/UX Designer, Web developer**
+
+
+- Place of residence: Russia, **Moscow**
+- Telegram: [@kingdomstay](https://t.me/kingdomstay)
+- Email: [kirill@troitskij.ru](mailto:kirill@troitskij.ru)
+
+
+## Key skills
+
+- HTML
+- CSS (SCSS, SASS)
+- JS (TypeScript, Node.JS)
+- Figma
+
+## Experience
+
+_In recent years, he studied without the opportunity to work._
+
+
+## Education
+
+- **2021 - 2025**
+  - Moscow Polytechnic University, Moscow
+  - Faculty of Information Technology, Web Technologies
+
+## Languages
+
+- **Russian** - Native
+- English - B1 - Intermediate
+
+## Citizenship
+
+- Citizenship: Russia
+- Work permit: Russia
+
+## Other
+
+- 🚗 Driving license (Passenger car)
