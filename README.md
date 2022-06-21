@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 > Looking for a job ⏳
 ## Contact Information
 
-**UI/UX Designer, Web developer 🇷🇺**
+**UI/UX Designer, Web developer**
 
 
 - Place of residence: Russia, **Moscow**
