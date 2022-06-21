@@ -52,8 +52,8 @@ Here are some ideas to get you started:
 
 ## Experience
 
-_In recent years, he studied without the opportunity to work._
-
+- **2022 – present**
+  - Plekhanov Russian University of Economics
 
 ## Education
 
