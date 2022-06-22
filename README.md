@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 - JS (TypeScript, Node.JS)
 - Figma
 
-## Experience
+## Work experience
 
 - **2022 – present**
   - Plekhanov Russian University of Economics
